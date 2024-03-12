@@ -1,0 +1,22 @@
+Problem Solving Tech
+- Big O notation and Complexity
+- Caterpiller Algorithm/Sliding window technique
+
+
+Problem:
+Given an array of size 200,000, write a function that will sum up all the elems in that array
+
+
+elems_array = [elems...]
+sum = 0;
+
+def sum(elems_array):
+	for elem in elems:
+		sum += elem
+	return sum
+
+
+* Codility- practice site
+
+sebamopale@gmail.com
+nickmnjiru@gmail.com
