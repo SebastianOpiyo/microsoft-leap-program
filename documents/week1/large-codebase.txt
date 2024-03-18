@@ -1,0 +1,21 @@
+- Familiarizing with large code base
+- Start small
+- Read the docs
+- C & Rust
+- Code Navigation
+	* Tracing execution flow
+- UNderstanding the arch
+	* Arc diagrams
+	* Code walkthrough and pair progamming
+	* LLMs
+- Strateies of deep diving
+	* Code reviews and write code
+- Dealing with complexity
+	* Modularise and abstract
+	* Focus on testing
+- Making your first contribution
+	* Small fixes and improvements
+	* Engage with the community
+- Continous learning and adaptation
+	* Stay curious
+	* Mentorship and collaboration

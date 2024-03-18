@@ -1,0 +1,16 @@
+Preventing Attacks from External and Internal Traffic: CNS is designed to safeguard against malicious attacks originating both from outside the cloud environment and from within, between virtual machines.
+
+Customized Network Security Service: CNS enables the customization of network security services based on the unique requirements of cloud users' services. It involves the analysis of user specifications and the generation of corresponding security rules and filter domain chains (FDCs).
+
+Unified Management for Filter Domains (FDs): This includes centralized security
+ management and event and log management domains. The central security management domain
+ is responsible for creating, starting, stopping, and destroying any domain in FDs, managing
+ control FDs, and providing security inspection paths for traffic
+
+Unified Management for Filter Domains (FDs): This includes centralized 
+security management and event and log management domains.
+ The central security management domain is responsible for creating, starting, 
+stopping, and destroying any domain in FDs, managing control FDs,
+ and providing security inspection paths for traffic. The event and log management domain stores and manages security events and logs from FDs.
+
+Security Middleboxes: These are placed within the cloud infrastructure, as opposed to traditional architectures that place middleboxes at the front end of cloud computing, to provide network security protection.

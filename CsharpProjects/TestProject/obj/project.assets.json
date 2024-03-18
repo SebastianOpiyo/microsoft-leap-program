@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sebam\\Documents\\projects\\microsoft-leap-program\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\sebam\\OneDrive\\Documents\\projects\\microsoft-leap-program\\CsharpProjects\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\sebam\\Documents\\projects\\microsoft-leap-program\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\sebam\\OneDrive\\Documents\\projects\\microsoft-leap-program\\CsharpProjects\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\sebam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sebam\\Documents\\projects\\microsoft-leap-program\\CsharpProjects\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\sebam\\OneDrive\\Documents\\projects\\microsoft-leap-program\\CsharpProjects\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sebam\\AppData\\Roaming\\NuGet\\NuGet.Config",
